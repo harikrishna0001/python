@@ -15,3 +15,6 @@ while True:
         name=(input("Enter the name of student:"))
         res=add(name)
         print(res)
+        
+    elif choice==2:
+        
